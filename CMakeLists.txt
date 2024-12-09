@@ -33,4 +33,34 @@ add_executable(final_sem cls_and_obj.cpp
         memory_alloc.cpp
         function_template.cpp
         class_template.cpp
-        exception_handling.cpp)
+        exception_handling.cpp
+        PYQs/fibonacci.cpp
+        PYQs/size_of_data_types.cpp
+        PYQs/array_diff.cpp
+        PYQs/reverse_arr_add.cpp
+        PYQs/swap_values_every_way.cpp
+        PYQs/stack_implementation.cpp
+        PYQs/SRO_friend_func.cpp
+        PYQs/constructor_destructor.cpp
+        PYQs/const_dest_inherit.cpp
+        PYQs/virtual_and_pure_virtual.cpp
+        PYQs/overlaoding_operator.cpp
+        PYQs/access_specifiers.cpp
+        PYQs/pointer_dma_array.cpp
+        PYQs/function_template.cpp
+        PYQs/file_handling.cpp
+        PYQs/pair_finder.cpp
+        PYQs/remove_spaces.cpp
+        PYQs/multiply_list_&_matrices.cpp
+        PYQs/overload_copy_strings.cpp
+        PYQs/overload_concat_strings.cpp
+        PYQs/dynamic_alloc_strings.cpp
+        PYQs/prime.cpp
+        PYQs/range_of_data_types.cpp
+        PYQs/linear_&_binary_search.cpp
+        PYQs/overload_largest.cpp
+        PYQs/PTA_&_AOP.cpp
+        PYQs/sum_of_prime_in_array.cpp
+        PYQs/missing_digits.cpp
+        PYQs/count_no_of_digits.cpp
+        PYQs/sort_list.cpp)

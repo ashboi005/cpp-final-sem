@@ -44,7 +44,7 @@ add_executable(final_sem cls_and_obj.cpp
         PYQs/constructor_destructor.cpp
         PYQs/const_dest_inherit.cpp
         PYQs/virtual_and_pure_virtual.cpp
-        PYQs/overlaoding_operator.cpp
+        PYQs/overloading_operator.cpp
         PYQs/access_specifiers.cpp
         PYQs/pointer_dma_array.cpp
         PYQs/function_template.cpp
